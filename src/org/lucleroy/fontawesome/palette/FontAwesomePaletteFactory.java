@@ -2,7 +2,6 @@ package org.lucleroy.fontawesome.palette;
 
 import java.io.IOException;
 import javax.swing.Action;
-import org.netbeans.api.editor.mimelookup.MimeRegistration;
 import org.netbeans.spi.palette.DragAndDropHandler;
 import org.netbeans.spi.palette.PaletteActions;
 import org.netbeans.spi.palette.PaletteController;
